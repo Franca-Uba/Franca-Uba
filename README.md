@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Uba Franca Noella 👩‍💻
 
-<!--
-**Franca-Uba/Franca-Uba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- 🌱 Software Engineering Student and Aspiring Project Manager
+- 🔧 Skilled in Python, SQL, C++, and Agile Development
+- 💡 Passionate about solving real-world problems with innovative technology
 
-Here are some ideas to get you started:
+### Projects:
+- **Task Management System**: Python-based platform with SQL backend
+- **Online Investment Management System**: Real-time portfolio tracking
+- **UML Class Diagrams for Asset Management**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 **Reach me**: francanoella53@gmail.com | [LinkedIn](https://www.linkedin.com/in/franca-uba-7aa6b226a/details/experience/)
+.
 -->
